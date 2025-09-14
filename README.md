@@ -78,5 +78,6 @@ Banking-QA-Project/
 ## Author
 - **ENG-Mohamed Mohamed Saad**  
 - Manual QA Engineer  
-- Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- Reach me at: [mohamedsaad2004c@gmail.co]
+  
 
