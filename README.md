@@ -76,7 +76,7 @@ Banking-QA-Project/
 ---
 
 ## Author
-- **Your Name**  
+- **ENG-Mohamed Mohamed Saad**  
 - Manual QA Engineer  
 - Reach me at: [your.email@example.com](mailto:your.email@example.com)
 
