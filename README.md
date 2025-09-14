@@ -6,19 +6,30 @@ It includes all required documentation: SRS, Test Cases, Bug Tracking, and Test 
 ---
 
 ##  Repository Structure
+
 Banking-QA-Project/
+
 │
 ├── SRS/ # System Requirements Specification
+
 │ └── SRS_v2.pdf
+
 │
 ├── TestCases/ # Functional & field validation test cases
+
 │ └── TestCaseSuite_v1.xlsx
+
 │
 ├── BugTracking/ # Bugs found during execution
+
 │ └── BugTracker_v1.xlsx
+
 │
+
 └── Planning/ # Integration and test planning documents
+
 └── IntegrationPlanning_v1.xlsx
+
 
 
 ---
